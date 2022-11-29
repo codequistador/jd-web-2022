@@ -1,0 +1,21 @@
+{
+  "intro": "Hi, I'm Justin",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "subtitle": {
+    "prefix": "I am a ",
+    "highlight": "Software Engineering Team Lead",
+    "suffix": "."
+  },
+  "description": "I am technically savvy and emotionally intelligent. I bring optimism and a can-do attitude to every challenge I encounter.",
+  "socialProfiles": {
+    "from": ["Mail", "Github", "LinkedIn"],
+    "showIcons": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "http://www.justindaining.com/",
+    "title": "Justin Daining. Software Engineer / Team Lead.",
+    "titleTemplate": "%s",
+    "description": "Justin Daining is a software engineering team lead.",
+    "author": "Justin Daining",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "When Justin isn't writing blog articles you will find him outside riding bikes, skiing, or hanging out with Teresa and Sage.",
+    "social": {
+      "github": "https://github.com/codequistador",
+      "medium": "https://medium.com/@justindaining",
+      "linkedin": "https://www.linkedin.com/in/justindaining/",
+      "mail": "mailto:justin@justindaining.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Justin Daining" },
+    "navigation": {
+      "header": [],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Hit Me Up",
+        "url": "mailto:justin@justindaining.com"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "title": "\"I've always felt like I belong here at Bridge and I think a big part of that is you. You always invited me to tag along to lunches or sit with you in the cafe. Even through the pandemic I never had to feel alone because I could always reach out to you on slack. You've shown me what it means to be inclusive and also how to be a good friend. Thank you for your thoughtfulness, Bridge is so lucky to have you!\"",
+      "tags": ["Megan, GetBridge"],
+      "image": {
+        "src": "../../images/jd-coworkers.JPG",
+        "alt": "Coworkers out for lunch"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "title": "\"The Justin factor is everything. I truly mean that. I always thought you would pivot into a relationship-heavy role. Such a strength of yours.\"",
+      "tags": ["Miki, Teem"],
+      "image": {
+        "src": "../../images/jd-office1.jpeg",
+        "alt": "Coworkers in the office"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "title": "\"Developers are generally a grouchy, wall-hugging, and pessimistic lot. Justin's positive attitude is constant, and he's always looking for the good in folks and finding ways to reach across departments to build bridges.\"",
+      "tags": ["Steve, GetBridge"],
+      "image": {
+        "src": "../../images/jd-tis.jpeg",
+        "alt": "Coworkers hosting a Santa clause event"
+      },
+      "links": []
+    }
+  ],
+  "button": {
+    "visible": false,
+    "label": "Hit Me Up",
+    "url": "mailto:justin@justindaining.com"
+  }
+}

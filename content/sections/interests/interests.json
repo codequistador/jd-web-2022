@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "label": "Macbook Pro",
+      "image": {}
+    },
+    {
+      "label": "Javascript, Typescript",
+      "image": {}
+    },
+    {
+      "label": "React, Ember",
+      "image": {}
+    },
+    {
+      "label": "React Storybook",
+      "image": {}
+    },
+    {
+      "label": "SAFe / Scaled Agile",
+      "image": {}
+    },
+    {
+      "label": "Shape Up Methodology",
+      "image": {}
+    },
+    {
+      "label": "Git",
+      "image": {}
+    },
+    {
+      "label": "Responsive Web",
+      "image": {}
+    },
+    {
+      "label": "Semantic HTML & CSS",
+      "image": {}
+    },
+    {
+      "label": "SCSS/PostCSS",
+      "image": {}
+    },
+    {
+      "label": "Webpack, Vite",
+      "image": {}
+    },
+    {
+      "label": "CMS (EE, Wordpress, & more)",
+      "image": {}
+    },
+    {
+      "label": "eCommerce Platforms",
+      "image": {}
+    },
+    {
+      "label": "...and more",
+      "image": {}
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
